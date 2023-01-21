@@ -8,4 +8,4 @@ A discord chat bot that act like a human.
 > - [AutoCode](https://pastebin.com/raw/t0dAVYpT)
 
 # Don't be a skid, or being sued.
-** I am serious, I will. I have time and money for that.
+** I am serious, I will. I have time and money for that.**
